@@ -13,8 +13,8 @@ Este projeto é o desáfio final do Bootcamp de data Science.
 
 Requisitos:
 1. Verificação dos dados (nulos, info, tipos e afins)
-2.Exploração dos dados usando alguma biblioteca (Matplot, Seaborn ou Plotly) 
-3.Análises estatísticas (Correlação, Boxplot, Describe e afins)
-4.Divisão dos dados de treino e teste 
-5.Criação do modelo  
-6.Métricas de avaliação (Matriz de confusão e Relatório de classificação )
+2. Exploração dos dados usando alguma biblioteca (Matplot, Seaborn ou Plotly) 
+3. Análises estatísticas (Correlação, Boxplot, Describe e afins)
+4. Divisão dos dados de treino e teste 
+5. Criação do modelo  
+6. Métricas de avaliação (Matriz de confusão e Relatório de classificação )
